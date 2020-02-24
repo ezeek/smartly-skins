@@ -1,5 +1,121 @@
 {
   "roundedCorners": 5,
   "bgColor": "royalblue",
-  "background": "https://hubitat.ezeek.us/smartly-skins/wander/assets/images/bg_wander.jpg"
+  "background": "https://hubitat.ezeek.us/smartly-skins/wander/assets/images/bg_wander.jpg",
+  "customColors": [
+    {
+      "template": "multi",
+      "bgColor": "rgba(210, 13, 13, 0.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "open"
+    },
+    {
+      "template": "garage-control",
+      "bgColor": "rgba(210, 13, 13, 0.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "open"
+    },
+    {
+      "template": "garage",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "open"
+    },
+    {
+      "template": "door-control",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "open"
+    },
+        {
+      "template": "water",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "wet"
+    },
+    {
+      "template": "smoke",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "detected"
+    },
+    {
+      "template": "contact",
+      "bgColor": "rgba(0,255,105,0.75)",
+      "iconColor": "rgba(0,0,0,0.66)",
+      "state": "closed"
+    },
+    {
+      "template": "contact",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "open"
+    },
+    {
+      "template": "carbon-monoxide",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "detected"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "10"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "9"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "8"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "7"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "6"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "5"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "4"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "3"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "2"
+    },
+    {
+      "template": "battery",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "1"
+    }   
+  ]
 }
