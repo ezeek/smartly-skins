@@ -41,11 +41,17 @@
     },
     {
       "template": "contact",
+      "bgColor": "rgba(0,255,105,0.75)",
+      "iconColor": "rgba(0,0,0,0.66)",
+      "state": "closed"
+    },
+    {
+      "template": "contact",
       "bgColor": "rgba(210,13,13,.9)",
       "iconColor": "rgb(255,255,255)",
       "state": "open"
     },
-        {
+    {
       "template": "carbon-monoxide",
       "bgColor": "rgba(210,13,13,.9)",
       "iconColor": "rgb(255,255,255)",
