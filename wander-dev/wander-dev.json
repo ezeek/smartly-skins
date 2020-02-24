@@ -116,6 +116,12 @@
       "bgColor": "rgba(210,13,13,.9)",
       "iconColor": "rgb(255,255,255)",
       "state": "1"
+    },
+    {
+      "template": "foo",
+      "bgColor": "rgba(210,13,13,.9)",
+      "iconColor": "rgb(255,255,255)",
+      "state": "closed"
     }   
   ]
 }
