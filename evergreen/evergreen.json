@@ -1,5 +1,5 @@
 {
-  "roundedCorders": 10,
+  "roundedCorners": 10,
   "bgColor": "black",
   "background": "https://hubitat.ezeek.us/smartly-skins/evergreen/assets/images/bg_evergreen.jpg"
 }
