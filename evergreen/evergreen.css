@@ -1,7 +1,7 @@
 .tile {
-  background-color: rgba(20, 20, 20, 0.9);
+  background-color: rgba(20,20,20,.9);
 }
 
 .tile.dashboard {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255,255,255,.8);
 }
