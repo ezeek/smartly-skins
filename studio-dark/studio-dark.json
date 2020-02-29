@@ -1,6 +1,6 @@
 {
   "roundedCorners": 5,
-  "bgColor": "royalblue",
+  "bgColor": "black",
   "background": "https://hubitat.ezeek.us/smartly-skins/studio-dark/assets/images/bg_studio-dark.jpg",
   "customColors": [
     {
